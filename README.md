@@ -8,15 +8,15 @@ To use this module, you must have credentials configured for Notion API and Goog
 Example `google_config.json`
 {
   "type": "service_account",
-  "project_id": "transfer-data-from-notion",
+  "project_id": "here your project_id",
   "private_key_id": "here your private key id",
   "private_key": "here your private key",
-  "client_email": "transfer-notion-data@transfer-data-from-notion.iam.gserviceaccount.com",
-  "client_id": "100051376373770438441",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/transfer-notion-data%40transfer-data-from-notion.iam.gserviceaccount.com",
+  "client_email": "here your client_email",
+  "client_id": "here your client_id",
+  "auth_uri": "here your auth_uri",
+  "token_uri": "here your token_uri",
+  "auth_provider_x509_cert_url": "here your auth_provider_x509_cert_url",
+  "client_x509_cert_url": "here your client_x509_cert_url",
   "universe_domain": "googleapis.com"
 }
 
