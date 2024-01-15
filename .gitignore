@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+app.log
+backup.json
+google_config.json
+new_notion_data.json
+notion_data.json
+notion_config.py
+mod.py
